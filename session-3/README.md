@@ -4,7 +4,7 @@
 - what's the debugger ? 
 - why we need it ? and how it works
 - static & dynamic analysis
-- flavours (AT&T , intel) 
+- flavors (AT&T , intel) 
 - analyze with **objdump**
 - intro to **GDB** 
 - intro to **radare2**
